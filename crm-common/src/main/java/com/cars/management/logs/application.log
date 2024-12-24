@@ -1,0 +1,22 @@
+2024-12-24 16:12:41 - Flyway Community Edition 9.22.0 by Redgate
+2024-12-24 16:12:41 - See release notes here: https://rd.gt/416ObMi
+2024-12-24 16:12:41 - 
+2024-12-24 16:12:41 - Database: jdbc:h2:mem:testdb (H2 2.2)
+2024-12-24 16:12:41 - Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+2024-12-24 16:12:41 - Successfully validated 1 migration (execution time 00:00.013s)
+2024-12-24 16:12:41 - Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2024-12-24 16:12:41 - Current version of schema "PUBLIC": << Empty Schema >>
+2024-12-24 16:12:41 - Migrating schema "PUBLIC" to version "1 - create car rental tables"
+2024-12-24 16:12:41 - Successfully applied 1 migration to schema "PUBLIC", now at version v1 (execution time 00:00.025s)
+2024-12-24 16:12:44 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-12-24 16:16:19 - Flyway Community Edition 9.22.0 by Redgate
+2024-12-24 16:16:19 - See release notes here: https://rd.gt/416ObMi
+2024-12-24 16:16:19 - 
+2024-12-24 16:16:19 - Database: jdbc:h2:mem:testdb (H2 2.2)
+2024-12-24 16:16:19 - Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+2024-12-24 16:16:19 - Successfully validated 1 migration (execution time 00:00.025s)
+2024-12-24 16:16:19 - Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+2024-12-24 16:16:19 - Current version of schema "PUBLIC": << Empty Schema >>
+2024-12-24 16:16:19 - Migrating schema "PUBLIC" to version "1 - create car rental tables"
+2024-12-24 16:16:19 - Successfully applied 1 migration to schema "PUBLIC", now at version v1 (execution time 00:00.022s)
+2024-12-24 16:16:22 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
