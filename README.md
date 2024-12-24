@@ -88,7 +88,7 @@ Ensure you have the following installed:
 ### Flyway Setup
 - Flyway is used to manage the database schema migrations.
 - Upon startup, Flyway will automatically create the necessary database tables and also seed mock data into the database for testing and development purposes.
-- You can customize Flyway migrations by adding SQL scripts to the tc-api/src/main/resources/db/migration/ directory.
+- You can customize Flyway migrations by adding SQL scripts to the crm-api/src/main/resources/db/migration/ directory.
 
 ### Testing
 1. Run tests
@@ -96,7 +96,7 @@ Ensure you have the following installed:
     mvn test
 
 2. Test files:
-    - Located in the tc-application/src/test/java directory under respective modules.
+    - Located in the crm-application/src/test/java directory under respective modules.
 
 3. Test coverage:
     - View test coverage reports after running the tests.
